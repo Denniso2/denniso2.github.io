@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια για ANALYSIS	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="./" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
 	<description>Απολυμάνσεις - Απεντομώσεις</description>
 	<lastBuildDate>Tue, 25 Apr 2023 19:06:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
